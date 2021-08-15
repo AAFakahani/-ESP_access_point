@@ -1,1 +1,2 @@
 # -In this project, I utilized an ESP8266 as an access point with a JSON-based interface to control robot movement.
+Method of Work I can connect to the ESP's network through wifi after executing it. Then I can open an html page with five buttons on it: Forward, Right, Stop, Left, and Backward. Using javascript, each button will return a value of '1', and I transmitted all direction values to the ESP using JSON.
